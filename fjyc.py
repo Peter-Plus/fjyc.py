@@ -27,3 +27,4 @@ from sklearn.metrics import mean_squared_error  # 评估指标
 评估结果 = f"模型的平均误差为：{误差:.2f}"
 
 print(评估结果)
+
